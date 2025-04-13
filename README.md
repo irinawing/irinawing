@@ -28,9 +28,8 @@
 
 ## 📌 Контактная информация
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 LinkedIn: [linkedin.com/in/irinawing](https://www.linkedin.com/in/irinawing)
-- 🌍 Локация: Таллин, Эстония
+- 📧 Email: irina.wing@xmail.ru
+- 🌍 Локация: Калиниград, Россия
 
 ---
 
