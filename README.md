@@ -14,6 +14,7 @@
 
 - **Базы данных:**  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 - **Инструменты визуализации данных:**  
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-9A1EAE?style=flat&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
@@ -29,6 +30,7 @@
 ## 📌 Контактная информация
 
 - 📧 Email: irina.wing@xmail.ru
+- 💬 Telegram: [@irina_wing](https://t.me/irina_wing)  
 - 🌍 Локация: Калиниград, Россия
 
 ---
