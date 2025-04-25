@@ -10,7 +10,7 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 - **Фреймворки и библиотеки:**  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) [![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-3.14+-informational)](https://www.django-rest-framework.org/) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) [![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-3.12+-informational)](https://www.django-rest-framework.org/) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 - **Базы данных:**  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
